@@ -1,4 +1,4 @@
-# Node Create Conference Tutorial
+# Node - Create Conference Tutorial
 
 This project serves as a guide to help you build an application with Persephony. Specifically, the project will:
 
@@ -13,7 +13,7 @@ This application will receive calls and have users enter the conference code of 
 
 To get started using a persephony account, follow the instructions [here](https://persephony-docs.readme.io/docs/getting-started-with-persephony).
 
-## Setting up the Create Conference Tutorial
+## Setting up the Tutorial
 
 1. Install the node packages necessary using command:
 
@@ -25,8 +25,8 @@ To get started using a persephony account, follow the instructions [here](https:
 
    | ENV VARIABLE            | DESCRIPTION                                                                                                                                                                             |
    | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-   | accountId              | Account ID which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                                         |
-   | authToken              | Authentication Token which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                               |
+   | ACCOUNT_ID              | Account ID which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                                         |
+   | AUTH_TOKEN              | Authentication Token which can be found under [API Keys](https://www.persephony.com/dashboard/portal/account/authentication) in Dashboard                                               |
    | HOST | The host url where your application is hosted (e.g. yourHostedApp.com) |
 
 ## Runnning the Tutorial
